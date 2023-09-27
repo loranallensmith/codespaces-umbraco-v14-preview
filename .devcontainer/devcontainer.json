@@ -45,7 +45,7 @@
 	"forwardPorts": [36858, 44390],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "./postCreateCommand.sh",
+	"postCreateCommand": "./.devcontainer/postCreateCommand.sh",
 
 	// Use 'postStartCommand' to run command to run a command each time the container is successfully started.
 	// "postStartCommand": "dotnet build && dotnet run",
