@@ -5,3 +5,6 @@ dotnet nuget add source "https://www.myget.org/F/umbracoprereleases/api/v3/index
 
 dotnet restore
 dotnet dev-certs https --trust
+
+echo "Installing Umbraco Node dependencies..."
+npm install -D @umbraco-cms/backoffice@14.0.0--preview003
