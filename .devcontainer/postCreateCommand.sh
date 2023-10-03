@@ -11,5 +11,5 @@ cd ./App_Plugins/my-umbraco-v14-package
 npm install
 npm install -D @umbraco-cms/backoffice@14.0.0--preview003
 
-echo "Building Umbraco package...'
+echo "Building Umbraco package assets..."
 npm build
