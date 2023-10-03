@@ -7,4 +7,9 @@ dotnet restore
 dotnet dev-certs https --trust
 
 echo "Installing Umbraco Node dependencies..."
+cd ./App_Plugins/my-umbraco-v14-package
+npm install
 npm install -D @umbraco-cms/backoffice@14.0.0--preview003
+
+echo "Building Umbraco package...'
+npm build
