@@ -25,7 +25,7 @@
 	// Use 'portsAttributes' to set default properties for specific forwarded ports. 
 	// More info: https://containers.dev/implementors/json_reference/#port-attributes
 	"portsAttributes": {
-		"3409": {
+		"3049": {
 			"label": "Dev HTTP",
 			"onAutoForward": "notify"
 		},
