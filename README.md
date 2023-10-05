@@ -2,7 +2,7 @@
 
 This repository serves as a GitHub Codespaces template for creating an empty Umbraco v14 site with a sample extension that uses the new Backoffice that will be part of Umbraco v14.  With this template, you can quickly set up a development environment for experimentation using GitHub Codespaces.
 
-![image-of-umbraco-version-14-custom-dashboard](https://github.com/loranallensmith/codespaces-umbraco-v14-preview/assets/3477155/a093d248-c8d0-4340-b321-ad742985c469)
+![image-of-umbraco-version-14-custom-dashboard](https://user-images.githubusercontent.com/3477155/273047669-770581c3-605b-41c6-82b7-fc920d6a85cb.png)
 
 ---
 
