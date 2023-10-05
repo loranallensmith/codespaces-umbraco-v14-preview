@@ -7,7 +7,7 @@ This repository serves as a GitHub Codespaces template for creating an empty Umb
 ---
 
 ## What's Included
-- The Dotnet 8.0 RC SDK
+- The .NET 8.0 RC SDK
 - The `@umbraco-cms/backoffice@14.0.0--preview003` Nuget Package
 - Node v18.x and the `@umbraco-cms/backoffice@14.0.0--preview003` NPM package
 - A sample Backoffice plugin `my-umbraco-v14-package' generated using `npm create vite@latest`
