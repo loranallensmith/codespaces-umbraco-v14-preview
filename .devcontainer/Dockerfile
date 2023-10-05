@@ -5,6 +5,8 @@ ENV PATH $PATH:/home/vscode/.dotnet:/home/vscode/.dotnet/tools
 ENV ASPNETCORE_HTTP_PORTS=3049
 ENV ASPNETCORE_HTTPS_PORTS=44323
 
+ENV ASPNETCORE_FORWARDEDHEADERS_ENABLED=true
+
 ARG NODE_VERSION=18.x
 # Install NodeJs
 RUN apt-get -y update \
