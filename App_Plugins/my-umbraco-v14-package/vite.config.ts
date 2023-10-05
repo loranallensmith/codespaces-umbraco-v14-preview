@@ -12,4 +12,5 @@ export default defineConfig({
             external: [/^@umbraco/],
         },
     },
+    server: { hmr: { clientPort: 44323 } }
 });
