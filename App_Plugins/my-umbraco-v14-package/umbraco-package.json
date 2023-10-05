@@ -7,7 +7,7 @@
             "type": "dashboard",
             "alias": "My.Dashboard.MyExtension",
             "name": "My Dashboard",
-            "js": "/App_Plugins/my-umbraco-v14-package/dist/my-extension.js",
+            "js": "/App_Plugins/my-umbraco-v14-package/dist/my-umbraco-v14-package.js",
             "meta": {
                 "label": "My Dashboard",
                 "pathname": "my-dashboard"
